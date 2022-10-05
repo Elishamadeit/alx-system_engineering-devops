@@ -1,1 +1,1 @@
-Listing all files and parent directory
+Print the type of file
