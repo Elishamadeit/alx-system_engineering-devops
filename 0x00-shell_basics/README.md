@@ -1,1 +1,1 @@
-Delete all files in directory
+Create three directories in one directory
