@@ -1,1 +1,1 @@
-Switch user
+Print effective username
