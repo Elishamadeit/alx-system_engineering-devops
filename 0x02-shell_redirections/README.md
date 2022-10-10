@@ -1,1 +1,1 @@
-Print hello world followed by new line
+Shell I/O redirections
